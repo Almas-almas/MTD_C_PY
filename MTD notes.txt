@@ -1,0 +1,11 @@
+MFD COMPETATIVE PROGRAMMING TRAINING 
+
+DAY 1- THURSDAY- 06-03-2025
+
+IMPORTANT GIT COMMANDS
+
+git status 
+
+git clone https://github.com/neelmyna/vvce_mar25
+
+$ git pull origin main
